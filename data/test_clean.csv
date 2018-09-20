@@ -1,4 +1,5 @@
 id,query,product_title,product_description,median_relevance,query_in_title
+3,71,24589,11025,,True
 6,158,19858,11025,,False
 9,191,407,975,,False
 11,11,2188,21046,,False
